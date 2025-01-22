@@ -39,8 +39,8 @@ Monitor and analyze MoE behavior in real-time:
 1. **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/EduardoBarrios/testing-moe-llm-vllm.git
-cd testing-moe-llm-vllm
+https://github.com/edujbarrios/MoE_testing_framework_on_LLMs_and_VLLMs.git
+cd MoE_testing_framework_on_LLMs_and_VLLMs
 
 # Install dependencies
 pip install -e .
@@ -152,7 +152,7 @@ If you use this project in your research, please cite:
   title = {Testing MoE for LLMs and VLLMs},
   year = {2025},
   author = {Eduardo José Barrios García},
-  url = {https://github.com/EduardoBarrios/testing-moe-llm-vllm}
+  url = {https://github.com/edujbarrios/MoE_testing_framework_on_LLMs_and_VLLMs}
 }
 ```
 
